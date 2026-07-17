@@ -1,0 +1,16 @@
+order_id,restaurant_name,food_category,order_value,delivery_time,rating,time_slot,city
+101,McDonalds,Fast Food,250,28,4.2,evening,Ahmedabad
+102,Dominos,Pizza,450,35,4.0,night,Ahmedabad
+103,Havmor,Ice Cream,150,20,4.5,evening,Ahmedabad
+104,Honest,North Indian,300,40,4.1,afternoon,Ahmedabad
+105,Subway,Healthy Food,220,25,4.3,morning,Ahmedabad
+106,KFC,Fast Food,500,32,4.0,night,Ahmedabad
+107,La Pinoz,Pizza,400,38,4.2,evening,Ahmedabad
+108,Wow Momo,Chinese,180,22,4.4,afternoon,Ahmedabad
+109,Tea Post,Beverages,120,18,4.6,morning,Ahmedabad
+110,McDonalds,Fast Food,280,30,4.1,evening,Ahmedabad
+111,Dominos,Pizza,600,45,3.9,night,Ahmedabad
+112,Burger King,Fast Food,350,33,4.0,evening,Ahmedabad
+113,Barbeque Nation,BBQ,900,55,4.7,night,Ahmedabad
+114,China Town,Chinese,320,42,4.1,afternoon,Ahmedabad
+115,Cafe Coffee Day,Cafe,200,27,4.2,morning,Ahmedabad
